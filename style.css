@@ -1,16 +1,19 @@
-body {
+body{
 	background: black;
-} div{
+}
+div{
 	font-size: 20px;
 	line-height: 10mm;
 	color: white;
-} h1 {color: orange;}
+}
+h1 {color: orange;}
 h3{color: orange;}
 footer{
 	background: darkblue;
 	font-size: 30;
-} a{color: orange;}
-#navbar {
+}
+a{color: orange;}
+#navbar{
   margin: 0;
   padding: 0;
   list-style-type: none;
